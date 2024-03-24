@@ -1,0 +1,7 @@
+FOLDER_TST: /home/armine/tst
+FOLDER_OUT: /home/armine/out
+FOLDER_1: /home/armine/folder1
+FOLDER_2: /home/armine/folder2
+count: 5
+bs: 1M
+type: zip
